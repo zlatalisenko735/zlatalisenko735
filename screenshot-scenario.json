@@ -1,0 +1,62 @@
+{
+  "note": "tapFrac is [x, y-from-top] over a 1080x2400 screen; see the comments in the generator for the derivation.",
+  "steps": [
+    {
+      "wait": 2,
+      "shot": "01_loader"
+    },
+    {
+      "wait": 4,
+      "shot": "02_menu"
+    },
+    {
+      "tapFrac": [
+        0.5,
+        0.7025
+      ],
+      "label": "HOW TO PLAY",
+      "wait": 1.5,
+      "shot": "03_how_to_play"
+    },
+    {
+      "tapFrac": [
+        0.5,
+        0.6106
+      ],
+      "label": "GOT IT",
+      "wait": 1,
+      "shot": "04_menu_ready"
+    },
+    {
+      "tapFrac": [
+        0.5,
+        0.5975
+      ],
+      "label": "PLAY",
+      "wait": 6,
+      "shot": "05_game_outer_ring"
+    },
+    {
+      "wait": 6,
+      "shot": "06_game_collecting"
+    },
+    {
+      "tapFrac": [
+        0.5,
+        0.45
+      ],
+      "label": "GATE TAP (centre of the play area)",
+      "wait": 4,
+      "shot": "07_game_after_hop"
+    },
+    {
+      "tapFrac": [
+        0.9375,
+        0.0394
+      ],
+      "label": "PAUSE",
+      "wait": 1.5,
+      "shot": "08_pause_card"
+    }
+  ]
+}

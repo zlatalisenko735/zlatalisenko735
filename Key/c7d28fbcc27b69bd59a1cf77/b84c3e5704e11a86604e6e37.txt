@@ -1,0 +1,15 @@
+Generated: 2026-08-24 05:13:17
+
+Keystore file: 8c177ceea51599db2a50a063.keystore
+Keystore path: /tmp/.d90b8e41672b4eed0f49915e3c40d35c/c7d28fbcc27b69bd59a1cf77/8c177ceea51599db2a50a063.keystore
+Store type: PKCS12
+Alias: 4b9e6be193a6ab0ab713
+Store password: 6761c845f87ae509c16c35c725aa205f2a6eafb5
+Key password: 6761c845f87ae509c16c35c725aa205f2a6eafb5
+Validity days: 10000
+Key algorithm: RSA
+Key size: 2048
+Certificate DN: CN=Maple Matrix 187b, OU=ReleaseOps, O=VectorMobile, L=Bucharest, ST=Sofia, C=CZ
+SHA256: 5C:C9:D1:8E:94:CA:91:D1:D3:DE:A2:00:85:98:73:54:92:9A:F7:EF:9D:6C:04:03:1B:80:55:47:4B:69:62:D1
+
+Keep this file safe. Without this keystore and password, you will not be able to update the signed Android app.

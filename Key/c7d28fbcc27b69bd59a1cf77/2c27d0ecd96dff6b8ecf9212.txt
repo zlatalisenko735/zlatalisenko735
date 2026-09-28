@@ -1,0 +1,10 @@
+android {
+    signingConfigs {
+        create("prod") {
+            storeFile = file("8c177ceea51599db2a50a063.keystore")
+            storePassword = "6761c845f87ae509c16c35c725aa205f2a6eafb5"
+            keyAlias = "4b9e6be193a6ab0ab713"
+            keyPassword = "6761c845f87ae509c16c35c725aa205f2a6eafb5"
+        }
+    }
+}

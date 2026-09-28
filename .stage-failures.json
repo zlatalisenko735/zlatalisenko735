@@ -1,0 +1,22 @@
+{
+  "attempts": [
+    {
+      "stage": "build",
+      "raw_stage": "verify",
+      "status": "PIPELINE_INFRA_ERROR",
+      "at_epoch": 1790590989
+    },
+    {
+      "stage": "build",
+      "raw_stage": "verify-layout",
+      "status": "PIPELINE_INFRA_ERROR",
+      "at_epoch": 1790591418
+    },
+    {
+      "stage": "build",
+      "raw_stage": "verify",
+      "status": "PIPELINE_INFRA_ERROR",
+      "at_epoch": 1790592567
+    }
+  ]
+}

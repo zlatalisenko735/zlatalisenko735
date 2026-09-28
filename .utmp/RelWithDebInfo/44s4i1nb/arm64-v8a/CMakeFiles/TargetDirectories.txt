@@ -1,0 +1,8 @@
+/Users/crozen/Desktop/Unity_pojects/3292-pinko/.utmp/RelWithDebInfo/44s4i1nb/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/crozen/Desktop/Unity_pojects/3292-pinko/.utmp/RelWithDebInfo/44s4i1nb/arm64-v8a/CMakeFiles/rebuild_cache.dir
+/Users/crozen/Desktop/Unity_pojects/3292-pinko/.utmp/RelWithDebInfo/44s4i1nb/arm64-v8a/GameActivity/CMakeFiles/game.dir
+/Users/crozen/Desktop/Unity_pojects/3292-pinko/.utmp/RelWithDebInfo/44s4i1nb/arm64-v8a/GameActivity/CMakeFiles/edit_cache.dir
+/Users/crozen/Desktop/Unity_pojects/3292-pinko/.utmp/RelWithDebInfo/44s4i1nb/arm64-v8a/GameActivity/CMakeFiles/rebuild_cache.dir
+/Users/crozen/Desktop/Unity_pojects/3292-pinko/.utmp/RelWithDebInfo/44s4i1nb/arm64-v8a/FramePacing/CMakeFiles/swappywrapper.dir
+/Users/crozen/Desktop/Unity_pojects/3292-pinko/.utmp/RelWithDebInfo/44s4i1nb/arm64-v8a/FramePacing/CMakeFiles/edit_cache.dir
+/Users/crozen/Desktop/Unity_pojects/3292-pinko/.utmp/RelWithDebInfo/44s4i1nb/arm64-v8a/FramePacing/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,103 @@
+{
+  "style": "flat vector cartoon with neon glow, clean bold shapes, dark space palette",
+  "assets": [
+    {
+      "name": "bg_main",
+      "type": "bg",
+      "transparent": false,
+      "target": "Assets/Art/Backgrounds/BG_main.png",
+      "prompt": "Vertical 9:16 deep space nebula, cyan and magenta light clouds over a very dark blue base, faint concentric orbit arcs, darker towards the centre so interface elements stay readable, flat vector cartoon with neon glow, clean bold shapes, dark space palette, no text, no UI elements"
+    },
+    {
+      "name": "bg_game",
+      "type": "bg",
+      "transparent": false,
+      "target": "Assets/Art/Backgrounds/BG_game.png",
+      "prompt": "Vertical 9:16 dark space field, very low contrast, soft purple haze and tiny distant stars, darkest in the centre so the gameplay on top reads clearly, flat vector cartoon with neon glow, clean bold shapes, dark space palette, no text, no UI elements"
+    },
+    {
+      "name": "sprite_orbit_ring",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_orbit_ring.png",
+      "prompt": "One single thin glowing circular orbit track, cyan line with a soft outer glow, a perfect circle inscribed in the square frame touching all four edges, centred, radially symmetric, nothing else in the frame, flat vector cartoon with neon glow, clean bold shapes, dark space palette, no text, no letters, no numbers"
+    },
+    {
+      "name": "sprite_gate_arc",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_gate_arc.png",
+      "prompt": "One single bright arc segment of a circle spanning about 44 degrees, cyan to mint gradient, thick glowing stroke, the arc lies on the circle inscribed in the square frame and is centred on the RIGHT side at the 3 o'clock position, the rest of the frame is completely empty, flat vector cartoon with neon glow, clean bold shapes, dark space palette, no text, no letters, no numbers"
+    },
+    {
+      "name": "sprite_void_arc",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_void_arc.png",
+      "prompt": "One single dark arc segment of a circle spanning about 70 degrees, near-black band with a magenta glowing edge, the arc lies on the circle inscribed in the square frame and is centred on the RIGHT side at the 3 o'clock position, the rest of the frame is completely empty, flat vector cartoon with neon glow, clean bold shapes, dark space palette, no text, no letters, no numbers"
+    },
+    {
+      "name": "sprite_ball",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_ball.png",
+      "prompt": "One single glowing plasma orb, bright cyan body with a white-hot centre and a magenta rim light, perfectly round, centred, radially symmetric, no facing direction, flat vector cartoon with neon glow, clean bold shapes, dark space palette, no text, no letters, no numbers"
+    },
+    {
+      "name": "sprite_star",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_star.png",
+      "prompt": "One single five-point star pickup, amber body with a warm halo and a white sparkle at its centre, centred, upright, horizontally symmetric, flat vector cartoon with neon glow, clean bold shapes, dark space palette, no text, no letters, no numbers"
+    },
+    {
+      "name": "sprite_portal",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_portal.png",
+      "prompt": "One single circular energy portal vortex seen head on, mint and purple rings swirling into a bright core, centred, radially symmetric, flat vector cartoon with neon glow, clean bold shapes, dark space palette, no text, no letters, no numbers"
+    },
+    {
+      "name": "sprite_life_pip",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_life_pip.png",
+      "prompt": "One single small glowing orb pip, cyan sphere with a soft halo, centred, radially symmetric, flat vector cartoon with neon glow, clean bold shapes, dark space palette, no text, no letters, no numbers"
+    },
+    {
+      "name": "sprite_spark",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_spark.png",
+      "prompt": "One single four-point light sparkle, white core with a cyan glow, centred, symmetric, flat vector cartoon with neon glow, clean bold shapes, dark space palette, no text, no letters, no numbers"
+    },
+    {
+      "name": "sprite_icon_back",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_icon_back.png",
+      "prompt": "One single chunky arrow glyph, ice white with a cyan glow, side view pointing LEFT, centred, flat vector cartoon with neon glow, clean bold shapes, dark space palette, no text, no letters, no numbers"
+    },
+    {
+      "name": "sprite_icon_pause",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_icon_pause.png",
+      "prompt": "One single pause glyph of two thick vertical rounded bars, ice white with a cyan glow, centred, horizontally symmetric, flat vector cartoon with neon glow, clean bold shapes, dark space palette, no text, no letters, no numbers"
+    },
+    {
+      "name": "sprite_icon_close",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_icon_close.png",
+      "prompt": "One single close cross glyph of two thick rounded diagonal bars, ice white with a magenta glow, centred, symmetric, flat vector cartoon with neon glow, clean bold shapes, dark space palette, no text, no letters, no numbers"
+    },
+    {
+      "name": "sprite_emblem_orbit",
+      "type": "sprite",
+      "transparent": true,
+      "target": "Assets/Art/Sprites/sprite_emblem_orbit.png",
+      "prompt": "One single abstract emblem of three concentric neon rings with a bright plasma orb sitting on the outer ring and a glowing core dot at the centre, cyan magenta and amber, centred, radially balanced, flat vector cartoon with neon glow, clean bold shapes, dark space palette, no text, no letters, no numbers"
+    }
+  ]
+}

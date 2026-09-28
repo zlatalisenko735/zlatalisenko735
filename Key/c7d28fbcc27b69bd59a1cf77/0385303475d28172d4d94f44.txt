@@ -1,0 +1,26 @@
+Alias name: 4b9e6be193a6ab0ab713
+Creation date: Aug 24, 2026
+Entry type: PrivateKeyEntry
+Certificate chain length: 1
+Certificate[1]:
+Owner: CN=Maple Matrix 187b, OU=ReleaseOps, O=VectorMobile, L=Bucharest, ST=Sofia, C=CZ
+Issuer: CN=Maple Matrix 187b, OU=ReleaseOps, O=VectorMobile, L=Bucharest, ST=Sofia, C=CZ
+Serial number: 938e3c239a5fe235
+Valid from: Mon Aug 24 05:13:16 CDT 2026 until: Fri Jan 09 04:13:16 CST 2054
+Certificate fingerprints:
+	 SHA1: 9D:DA:98:49:60:72:83:83:B1:C4:54:FC:30:AA:BF:43:F3:83:EC:C5
+	 SHA256: 5C:C9:D1:8E:94:CA:91:D1:D3:DE:A2:00:85:98:73:54:92:9A:F7:EF:9D:6C:04:03:1B:80:55:47:4B:69:62:D1
+Signature algorithm name: SHA384withRSA
+Subject Public Key Algorithm: 2048-bit RSA key
+Version: 3
+
+Extensions: 
+
+#1: ObjectId: 2.5.29.14 Criticality=false
+SubjectKeyIdentifier [
+KeyIdentifier [
+0000: 14 BF 87 E7 C9 B1 1C 2B   C3 9F 81 72 9A 5C 90 4D  .......+...r.\.M
+0010: 20 55 40 32                                         U@2
+]
+]
+
