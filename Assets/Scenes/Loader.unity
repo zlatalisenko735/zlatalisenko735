@@ -4353,7 +4353,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c8c2c6350777b4787acb4bd0ea98fce8, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::BootFlow
-  verboseTrace: 1
+  verboseTrace: 0
   lessonPage: 
   loadBar: {fileID: 397194677}
 --- !u!114 &1744649730
